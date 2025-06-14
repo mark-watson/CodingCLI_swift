@@ -1,4 +1,4 @@
-# Chat With SOurce Directory Tool Using Apple Intelligence Local and falls back to Apple PCC Secure Cloud Model - Example for Mark Watson's book "Artificial Intelligence Using Swift"
+# Chat With Source Directory Tool Using Apple Intelligence Local and falls back to Apple PCC Secure Cloud Model - Example for Mark Watson's book "Artificial Intelligence Using Swift"
 
 Book URI: https://leanpub.com/SwiftAI
 
